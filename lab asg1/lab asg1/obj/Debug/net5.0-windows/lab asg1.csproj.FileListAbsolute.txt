@@ -1,0 +1,18 @@
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.exe
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.deps.json
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.dll
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\ref\lab asg1.dll
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\bin\Debug\net5.0-windows\lab asg1.pdb
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab_asg1.Form1.resources
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.dll
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\ref\lab asg1.dll
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.pdb
+C:\Users\pc\OneDrive\Desktop\CS\semester7\Human Computer Interaction (CS484)\lab asg 1\lab asg1\lab asg1\obj\Debug\net5.0-windows\lab asg1.genruntimeconfig.cache
